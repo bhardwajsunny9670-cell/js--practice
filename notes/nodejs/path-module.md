@@ -1,6 +1,6 @@
 # Path Module
 
-# defination:
+ **defination:**
 It's a built-in Node.js module that provides tools for handling and transforming file paths across different operating systems.
 
 # ✏️ Key Benefits:
